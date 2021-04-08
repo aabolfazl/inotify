@@ -1,0 +1,3 @@
+/home/abolfazl/CLionProjects/inotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abolfazl/CLionProjects/inotify/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abolfazl/CLionProjects/inotify/cmake-build-debug/CMakeFiles/inotify.dir

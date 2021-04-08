@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abolfazl/CLionProjects/inotify/main.cpp
+iostream
+-
+sys/inotify.h
+-
+climits
+-
+unistd.h
+-
+

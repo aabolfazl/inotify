@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inotify.dir/main.cpp.o  -o inotify 
